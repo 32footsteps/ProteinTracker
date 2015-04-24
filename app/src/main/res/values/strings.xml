@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- buttons -->
+    <string name="add_new_entry">Start a new daily entry</string>
+    <string name="add_new_item">Add a new item</string>
+
+    <!-- static text strings -->
+    <string name="app_name">Protein Tracker</string>
+    <string name="daily_header">Your current entries</string>
+    <string name="item_header">Daily items you\'ve had:</string>
+    <string name="title_activity_fragment_layout_entry">FragmentLayoutEntryActivity</string>
+    <string name="title_activity_fragment_layout_daily">FragmentLayoutDaily</string>
+
+</resources>
